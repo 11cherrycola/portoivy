@@ -72,7 +72,7 @@ export default function ProjectsSection({ projectsRef }: { projectsRef: React.Re
             <Dialog.Title className="text-xl font-semibold mb-4"></Dialog.Title>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
               <img src="/sertifikat/webdev.jpg" alt="Webdev" className="w-full rounded shadow" />
-              <img src="/sertifikat/Bisnis I.jpg" alt="Bisnis I" className="w-full rounded shadow" />
+              <img src="/sertifikat/Bisnis I.Jpg" alt="Bisnis I" className="w-full rounded shadow" />
               <img src="/sertifikat/Bisnis II.Pdf" alt="Bisnis II" className="w-full rounded shadow" />
             </div>
             <div className="text-right mt-4">
