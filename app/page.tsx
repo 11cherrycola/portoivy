@@ -279,7 +279,7 @@ komunikatif dan dapat bekerja sama dengan baik dalam tim.
     <Dialog.Panel className="bg-white rounded-xl shadow-xl max-w-4xl w-full p-4">
       <Dialog.Title className="text-xl font-semibold mb-4">Curriculum Vitae</Dialog.Title>
       <iframe
-        src="/cv.pdf"
+        src="/CV.pdf"
         className="w-full h-[80vh]"
         frameBorder="0"
         title="CV Viewer"
